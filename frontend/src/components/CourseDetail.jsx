@@ -181,7 +181,7 @@ const CourseDetail = ({ user }) => {
           rounded-2xl
           shadow-2xl
           p-6
-          text-white
+          text-primary
           overflow-hidden
         "
       >
